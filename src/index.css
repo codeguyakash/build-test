@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+body {
+  margin: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.leaf{
+  display: flex;
+  align-items: flex-start;
+  margin-top: -10rem;
+  position: relative;
+  width: 7rem;
+}
+.col-12{
+  margin-bottom: 0 !important;
+  position: absolute;
+}
+.col-2{
+  margin-bottom: 0 !important;
+}
+.col-10{
+  margin-bottom: 0 !important;
+  background: linear-gradient(90deg, rgba(56,173,211,1) 0%, rgba(45,126,157,1) 100%);
+    transform: skewX(40deg);
+}

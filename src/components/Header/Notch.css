@@ -1,0 +1,103 @@
+body {
+  /* background-color: rgb(125, 138, 138); */
+  margin-left: 2rem;
+  margin-right: 2rem;
+  /* background-color: #ffd600; */
+  /* background: linear-gradient(90deg, rgba(17,2,17,1) 0%, rgba(56,173,211,1) 100%); */
+}
+.bodymain {
+    border-radius: 2rem 2rem 2rem 2rem !important;
+    margin-top: -2em !important;
+    padding-top: 4em;
+    margin-bottom: 4em;
+}
+
+.row {
+    /* border: 1px solid black; */
+    border-radius: 2rem 2rem 0rem 0rem;
+    margin-top: 1rem;
+    background-color: white;
+}
+
+.notch1 {
+    /* border: solid 1px red; */
+    border-bottom: 0px;
+  border-right: 0px;
+  border-radius: 2em 0em 0em 0em;
+  height: 4rem;
+}
+.notch1_1 {
+    border: solid 1px rgb(0, 0, 0);
+    border-radius: 0em 2em 0em 0em;
+    height: 4rem;
+    
+    transform: skewX(40deg);
+    border-left: 0px;
+    border-bottom: 0px;
+    border-right:0px;
+    top: 0;
+    right: 50%;
+}
+
+.notch2 {
+    background: linear-gradient(90deg, rgba(17,2,17,1) 0%, rgba(56,173,211,1) 100%);
+    background-color: #ffd600;
+    border-radius: 0em 0em 0em 2em;
+    transform: skewX(40deg);
+    border-top: 0px;
+    border-right: 0px;
+    /* border-left:0px; */
+}
+.notch2_1 {
+    background: linear-gradient(90deg, rgba(17,2,17,1) 0%, rgba(56,173,211,1) 100%);
+    background-color: #ffd600;
+    border-radius: 0em 0em 2em 0em;
+  transform: skewX(140deg);
+  border-top: 0px;
+  border-left: 0px;
+  /* border-right: 0px; */
+}
+
+.notch3 {
+  border: solid 1px red;
+  border-radius: 2em 0em 0em 0em;
+  height: 4rem;
+  transform: skewX(140deg);
+  border-bottom: 0px;
+  border-right: 0px;
+}
+.notch3_1 {
+  /* border: solid 1px red; */
+  border-radius: 0em 2em 0em 0em;
+  height: 4rem;
+  border-bottom: 0px;
+  border-left: 0px;
+}
+
+/* #mainDiv {
+    height: 100px;
+    width: 80px;
+    position: relative;
+    border-bottom: 2px solid #f51c40;
+    background: #3beadc;
+}
+
+#borderLeft {
+    border-left: 2px solid #f51c40;
+    position: absolute;
+    top: 50%;
+    bottom: 0;
+} */
+
+/* .notch2b{
+    border-radius: 0rem 0rem 10rem 0rem ;
+    background-color: red;
+    height: 5rem;
+    transform: skewX(140deg);
+}
+.notch2a{
+    border-radius: 0rem 0rem 0rem 10rem ;
+    background-color: red;
+    height: 5rem;
+    transform: skewX(40deg);
+} */
