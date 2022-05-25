@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codeguyakash/build-test/static/css/main.6e2f41a0.css",
+    "main.js": "/codeguyakash/build-test/static/js/main.2ade94fe.js",
+    "static/js/787.d3befce1.chunk.js": "/codeguyakash/build-test/static/js/787.d3befce1.chunk.js",
+    "index.html": "/codeguyakash/build-test/index.html",
+    "main.6e2f41a0.css.map": "/codeguyakash/build-test/static/css/main.6e2f41a0.css.map",
+    "main.2ade94fe.js.map": "/codeguyakash/build-test/static/js/main.2ade94fe.js.map",
+    "787.d3befce1.chunk.js.map": "/codeguyakash/build-test/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e2f41a0.css",
+    "static/js/main.2ade94fe.js"
+  ]
+}
